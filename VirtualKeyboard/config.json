@@ -9,7 +9,7 @@
     }
   },
   "AboveMenu":  0,
-  "ButtonScale": 1.5,
+  "ButtonScale": 1.0,
   "Buttons": [
     [
       { "key": "P", "alias": "" },
@@ -17,7 +17,8 @@
       { "key": "O", "alias": "" },
       { "key": "Q", "alias": "" }
       { "key": "T", "alias": "" }
-      { "key": "BACKSPACE", "alias": "" }
+      { "key": "BACKSPACE", "alias": "BS" }
+      
     ]
   ]
 }
