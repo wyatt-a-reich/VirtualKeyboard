@@ -9,13 +9,15 @@
     }
   },
   "AboveMenu":  0,
-  "ButtonScale": 1.0,
+  "ButtonScale": 1.5,
   "Buttons": [
     [
       { "key": "P", "alias": "" },
       { "key": "I", "alias": "" },
       { "key": "O", "alias": "" },
       { "key": "Q", "alias": "" }
+      { "key": "T", "alias": "" }
+      { "key": "BACKSPACE", "alias": "" }
     ]
   ]
 }
